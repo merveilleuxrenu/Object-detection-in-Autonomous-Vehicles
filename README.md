@@ -76,17 +76,12 @@ CL-FusionBEV/
 - Extend dataset evaluation to **Waymo Open Dataset** and **KITTI** for generalization testing.
 - Implement real-time **sensor fusion visualization** to enhance interpretability.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributors
-- **Your Name** - Developer & Researcher ([GitHub Profile](https://github.com/yourusername))
-- Open for contributions! Feel free to submit pull requests or raise issues.
-
 ## Acknowledgments
 - **Ultralytics** for the YOLO object detection framework.
 - **Waymo & KITTI datasets** for benchmarking autonomous perception systems.
 
 ---
 **⭐ If you find this project useful, please give it a star on GitHub! ⭐**
+
+
 
